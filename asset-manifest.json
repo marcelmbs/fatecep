@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/fatcep/static/js/main.bcb985ab.chunk.js",
-    "main.js.map": "/fatcep/static/js/main.bcb985ab.chunk.js.map",
-    "runtime-main.js": "/fatcep/static/js/runtime-main.46efdd18.js",
-    "runtime-main.js.map": "/fatcep/static/js/runtime-main.46efdd18.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/fatcep/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c62a450c.chunk.js": "/fatcep/static/js/2.c62a450c.chunk.js",
-    "static/js/2.c62a450c.chunk.js.map": "/fatcep/static/js/2.c62a450c.chunk.js.map",
-    "index.html": "/fatcep/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/fatcep/static/css/2.4c97ca4f.chunk.css.map",
-    "static/js/2.c62a450c.chunk.js.LICENSE.txt": "/fatcep/static/js/2.c62a450c.chunk.js.LICENSE.txt"
+    "main.js": "/fatecep/static/js/main.bcb985ab.chunk.js",
+    "main.js.map": "/fatecep/static/js/main.bcb985ab.chunk.js.map",
+    "runtime-main.js": "/fatecep/static/js/runtime-main.6dc135a9.js",
+    "runtime-main.js.map": "/fatecep/static/js/runtime-main.6dc135a9.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/fatecep/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c62a450c.chunk.js": "/fatecep/static/js/2.c62a450c.chunk.js",
+    "static/js/2.c62a450c.chunk.js.map": "/fatecep/static/js/2.c62a450c.chunk.js.map",
+    "index.html": "/fatecep/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/fatecep/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.c62a450c.chunk.js.LICENSE.txt": "/fatecep/static/js/2.c62a450c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.46efdd18.js",
+    "static/js/runtime-main.6dc135a9.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.c62a450c.chunk.js",
     "static/js/main.bcb985ab.chunk.js"
