@@ -1,6 +1,6 @@
 {
   "name": "fatecep",
-  "homepage": "http://marcelmbs.github.io/fatcep",
+  "homepage": "http://marcelmbs.github.io/fatecep",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
